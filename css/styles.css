@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+body{
+    margin: 0;
+    text-align: center;
+}
+
+.middle-container{
+    
+
+}
+
+.bottom-container{
+    
+
+}
+
+
+h1{
+    margin: 0 auto 0 auto;
+    /* used when the statement in inline and fraction of the width */
+    font-family: 'Pushster', cursive;
+    font-weight: 100;
+    
+}
+
+
+
+.Dp{
+    width: 150px;
+    height: 150px;
+    border-radius: 25%;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud{
+    position:absolute;
+    right:300px;
+    top: 50px;
+}
